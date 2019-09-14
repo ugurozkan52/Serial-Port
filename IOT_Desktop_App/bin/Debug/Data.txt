@@ -1,0 +1,2 @@
+Zaman			Open_Front_Speed	Open_Back_Speed		Open_Count	Close_Front_Speed	Close_Back_Speed	Close_Count
+9/11/2019 1:48:19 PM		1.2048			1.8868		60			0.9464			1.3889		60

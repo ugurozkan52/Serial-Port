@@ -1,0 +1,20 @@
+C:\Users\Ugur-PC\Documents\Visual Studio\IOT_Desktop_App\obj\Debug\IOT_Desktop_App.csprojAssemblyReference.cache
+C:\Users\Ugur-PC\Documents\Visual Studio\IOT_Desktop_App\obj\Debug\IOT_Desktop_App.Form1.resources
+C:\Users\Ugur-PC\Documents\Visual Studio\IOT_Desktop_App\obj\Debug\IOT_Desktop_App.Properties.Resources.resources
+C:\Users\Ugur-PC\Documents\Visual Studio\IOT_Desktop_App\obj\Debug\IOT_Desktop_App.csproj.GenerateResource.cache
+C:\Users\Ugur-PC\Documents\Visual Studio\IOT_Desktop_App\obj\Debug\IOT_Desktop_App.csproj.CoreCompileInputs.cache
+C:\Users\Ugur-PC\Documents\Visual Studio\IOT_Desktop_App\bin\Debug\IOT_Desktop_App.exe.config
+C:\Users\Ugur-PC\Documents\Visual Studio\IOT_Desktop_App\bin\Debug\IOT_Desktop_App.exe
+C:\Users\Ugur-PC\Documents\Visual Studio\IOT_Desktop_App\bin\Debug\IOT_Desktop_App.pdb
+C:\Users\Ugur-PC\Documents\Visual Studio\IOT_Desktop_App\obj\Debug\IOT_Desktop_App.exe
+C:\Users\Ugur-PC\Documents\Visual Studio\IOT_Desktop_App\obj\Debug\IOT_Desktop_App.pdb
+C:\Users\a\Documents\Visual Studio 2019\Project\IOT_Desktop_App\bin\Debug\IOT_Desktop_App.exe.config
+C:\Users\a\Documents\Visual Studio 2019\Project\IOT_Desktop_App\bin\Debug\IOT_Desktop_App.exe
+C:\Users\a\Documents\Visual Studio 2019\Project\IOT_Desktop_App\bin\Debug\IOT_Desktop_App.pdb
+C:\Users\a\Documents\Visual Studio 2019\Project\IOT_Desktop_App\obj\Debug\IOT_Desktop_App.csprojAssemblyReference.cache
+C:\Users\a\Documents\Visual Studio 2019\Project\IOT_Desktop_App\obj\Debug\IOT_Desktop_App.Form1.resources
+C:\Users\a\Documents\Visual Studio 2019\Project\IOT_Desktop_App\obj\Debug\IOT_Desktop_App.Properties.Resources.resources
+C:\Users\a\Documents\Visual Studio 2019\Project\IOT_Desktop_App\obj\Debug\IOT_Desktop_App.csproj.GenerateResource.cache
+C:\Users\a\Documents\Visual Studio 2019\Project\IOT_Desktop_App\obj\Debug\IOT_Desktop_App.csproj.CoreCompileInputs.cache
+C:\Users\a\Documents\Visual Studio 2019\Project\IOT_Desktop_App\obj\Debug\IOT_Desktop_App.exe
+C:\Users\a\Documents\Visual Studio 2019\Project\IOT_Desktop_App\obj\Debug\IOT_Desktop_App.pdb
